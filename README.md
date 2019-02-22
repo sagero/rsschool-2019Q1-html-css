@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Siarhei Kiniou
+HTML CSS Basics: https://www.codecademy.com/users/sagero/achievements
